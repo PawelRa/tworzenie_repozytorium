@@ -9,3 +9,8 @@ Projekt ma charakter edukacyjny i służy nauce:
 - Linuxa
 - automatyzacji
 - Gita i pracy z repozytoriami
+
+## Planowane funkcje
+- alerty e-mail
+- logowanie do plików
+- możliwość uruchamiania z crona
